@@ -1,3 +1,6 @@
+# Author: Haorong Xu hxx5086@psu.edu 
+
+
 def getGradePoint(g1):
   gradep=0;
   if(g1=="A"):
